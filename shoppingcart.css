@@ -1,0 +1,42 @@
+.parent1{
+    display: flex;
+    width: absolute;
+    height: 100px;
+    border: 1px solid;
+    border-color: white;
+    justify-content: center;
+}
+
+.product1{
+    display: inline-flex;
+    height: 150px;
+    width: 100px;
+    border: 1px solid;
+    border-color: black;
+}
+
+.product2{
+    display: inline-flex;
+    height: 150px;
+    width: 100px;
+    border: 1px solid;
+    border-color: black;
+}
+
+.product3{
+    display: inline-flex;
+    height: 150px;
+    width: 100px;
+    border: 1px solid;
+    border-color: black;
+}
+
+.product1 + .product2{
+    margin-left: 2%;
+  }
+
+  .product2 + .product3 {
+    margin-left: 2%;
+  }
+
+

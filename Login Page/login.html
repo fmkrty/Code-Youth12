@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login Popup Form</title>
+  <link rel="stylesheet" href="login.css">
+</head>
+<style>    
+    h1{
+        font-family: sans-serif;
+    }
+</style>
+<style>    
+    parent1{
+        font-family: sans-serif;
+    }
+</style>
+<body>
+        <div class="divhead"><h1>FATIH</h1></div>
+
+    <div class="parent1">
+        <button class="child1"><P>HOME</P></button>
+        <button class="child2"><P>ABOUT</P></button>
+        <button class="child3"><P>CONTACT US</P></button>
+    
+  
+        <button id="loginButton">SIGN IN</button>
+  <div id="loginPopup1" class="popup1">
+    <div class="popup1-content">
+      <span class="close1" id="close1Button">&times;</span>
+      <h2>Please sign in</h2>
+      <form id="loginForm">
+        <input type="email" placeholder="Email" id="loginEmail" required>
+        <input type="password" placeholder="Password" id="loginPassword" required>
+        <button type="submit">Sign in</button>
+      </form>
+    </div>
+  </div>
+
+  <button id="signupButton">SIGN UP</button>
+  <div id="signupPopup2" class="popup2">
+    <div class="popup2-content">
+      <span class="close2" id="close2Button">&times;</span>
+      <h2>Please sign up</h2>
+      <form id="signupForm">
+        <input type="email" placeholder="Email" id="signupEmail" required>
+        <button type="submit">Sign up</button>
+      </form>
+    </div>
+  </div>
+
+  <script src="login.js"></script>
+</body>
+</html>

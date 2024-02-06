@@ -1,0 +1,333 @@
+.parent1{
+    width: absolute;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    padding: 1px 1px;
+    margin: 1px;  
+}
+
+.child1{
+    display: inline-block;
+    width: 75px;
+    height: 50px;
+    border: 1px solid;
+    top: 5%;
+    vertical-align: middle;
+    border-color: white;
+    text-align: center;
+}
+
+.child2{
+    display: inline-block;
+    position: absolute;
+    left: 70px;
+    width: 75px;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child3{
+    position: absolute;
+    right: 175px;
+    display: inline-block;
+    width: 75px;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child4{
+    position: absolute;
+    right: 110px;
+    display: inline-block;
+    width: 75px;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child5{
+    position: absolute;
+    top: 5px;
+    right: 40px;
+    display: inline-block;
+    width: 75px;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    padding: 11px 11px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child6{
+    position: absolute;
+    top: 5px;
+    right: 1px;
+    display: inline-block;
+    width: 75px;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    padding: 8px 8px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.parent2{
+    padding: 250px 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search input{
+    height: 40px;
+    width: 600px;
+    border-radius: 25px;
+    position: absolute;
+    border: 1px solid;
+    border-color: rgb(218, 224, 227);
+    top: 50%;
+    left: 30%;
+    margin: -auto;
+}
+
+.searchicon{
+    position: absolute;
+    top: 51.3%;
+    left: 30.8%;
+    margin: -auto;
+}
+
+.micicon{
+    position: absolute;
+    top: 51.3%;
+    left: 65.5%;
+    margin: -auto;
+}
+
+.imageicon{
+    position: absolute;
+    top: 51.3%;
+    left: 67.8%;
+    margin: -auto;
+}
+
+
+.parent3{
+    width: absolute;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    padding: 1px 1px;
+    margin: 1px;  
+}
+
+.child31{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 130px;
+    height: 30px;
+    border: 1px solid;
+    vertical-align: middle;
+    text-align: center;
+    background-color: rgb(238, 244, 246);
+    border-color: rgb(238, 244, 246);
+    margin: -auto;
+    top: 59%;
+    left: 40%;
+
+}
+
+.child32{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 130px;
+    height: 30px;
+    border: 1px solid;
+    vertical-align: middle;
+    background-color: rgb(238, 244, 246);
+    border-color: rgb(238, 244, 246);
+    text-align: center;
+    margin: -auto;
+    top: 59%;
+    left: 50%;
+
+}
+
+.parent4{
+    position: absolute;
+    vertical-align: middle;
+    text-align: center;
+    margin: -auto;
+    top: 64%;
+    left: 44%; 
+}
+
+.footbar{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    bottom: 7%;
+    background-color: rgb(238, 244, 246);
+    border-color: rgb(238, 244, 246);
+}
+
+.footbarchild{
+    position: fixed;
+    vertical-align: middle;
+    left: 25px;
+    width: 100%;
+    height: 50px;
+    bottom: 7%;
+    font-size: medium;
+    background-color: rgb(238, 244, 246);
+    border-color: rgb(238, 244, 246);
+}
+
+.footbar2{
+    position: fixed;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    height: 60px;
+    background-color: rgb(238, 244, 246);
+    border-color: rgb(238, 244, 246);
+}
+
+.foot2child1{
+    position: absolute;
+    display: inline-block;
+    width: 75px;
+    height: 50px;
+    border: 1px solid;
+    left: 30px;
+    bottom: 6%;
+    left: 25px;
+    vertical-align: middle;
+    text-align: center;
+    background-color: rgb(238, 244, 246);
+    border-color: rgb(238, 244, 246);
+
+}
+
+.foot2child2{
+    position: absolute;
+    display: inline-block;
+    width: 75px;
+    height: 50px;
+    border: 1px solid;
+    bottom: 6%;
+    left: 120px;
+    vertical-align: middle;
+    text-align: center;
+    background-color: rgb(238, 244, 246);
+    border-color: rgb(238, 244, 246);
+
+}
+
+.foot2child3{
+    position: absolute;
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+    border: 1px solid;
+    bottom: 6%;
+    left: 200px;
+    vertical-align: middle;
+    text-align: center;
+    background-color: rgb(238, 244, 246);
+    border-color: rgb(238, 244, 246);
+
+}
+
+.foot2child4{
+    position: absolute;
+    right: 140px;
+    display: inline-block;
+    width: 75px;
+    height: 50px;
+    border: 1px solid;
+    bottom: 6%;
+    vertical-align: middle;
+    text-align: center;
+    background-color: rgb(238, 244, 246);
+    border-color: rgb(238, 244, 246);
+
+}
+
+.foot2child5{
+    position: absolute;
+    right: 75px;
+    display: inline-block;
+    width: 75px;
+    height: 50px;
+    border: 1px solid;
+    bottom: 6%;
+    vertical-align: middle;
+    text-align: center;
+    background-color: rgb(238, 244, 246);
+    border-color: rgb(238, 244, 246);
+
+}
+
+.foot2child6{
+    position: absolute;
+    right: 10px;
+    display: inline-block;
+    width: 75px;
+    height: 50px;
+    bottom: 6%;
+    border: 1px solid;
+    vertical-align: middle;
+    text-align: center;
+    background-color: rgb(238, 244, 246);
+    border-color: rgb(238, 244, 246);
+}
+
+.parent1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.footbar{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.footbar2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.parent4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.child31{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.child32{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}

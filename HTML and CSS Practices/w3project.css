@@ -1,0 +1,293 @@
+.parent1{
+    width: absolute;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    padding: 1px 1px;
+    margin: 1px;
+    
+}
+
+.child1{
+    display: inline-block;
+    width: 75px;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    padding: 5x 5x;
+    vertical-align: middle;
+    text-align: center;
+    color: green;
+    font-weight: bold;
+}
+
+.child2{
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child3{
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child4{
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child5{
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child6{
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child7{
+    display: inline-block;
+    border-radius: 25px;
+    position: absolute;
+    right: 5px;
+    width: 100px;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: right;
+    background-color: lightgreen;
+}
+
+.child8{
+    display: inline-block;
+    color: white;
+    border-radius: 25px;
+    position: absolute;
+    right: 70px;
+    width: 100px;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+    background-color: green;
+}
+
+.child9{
+    display: inline-block;
+    position: absolute;
+    right: 220px;
+    width: 100px;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child10{
+    display: inline-block;
+    position: absolute;
+    right: 330px;
+    width: 100px;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child11{
+    display: inline-block;
+    position: absolute;
+    right: 440px;
+    width: 100px;
+    height: 50px;
+    border: 1px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+
+#parent2{
+    width: absolute;
+    height: 30px;
+    border: 1px solid;
+    border-color: darkslategrey;
+    background-color: darkslategray;
+    vertical-align: middle;
+    text-align: left;
+}
+
+.child21{
+    display: inline-block;
+    width: 75px;
+    height: 30px;
+    border: 0px solid;
+    border-color: green;
+    background-color: darkgreen;
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.child22{
+    display: inline-block;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 0px solid;
+    border-color: slategrey;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child23{
+    display: inline-block;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 0px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child24{
+    display: inline-block;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 0px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child25{
+    display: inline-block;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 0px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child26{
+    display: inline-block;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 0px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child27{
+    display: inline-block;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 0px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child28{
+    display: inline-block;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 0px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child29{
+    display: inline-block;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 0px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.child30{
+    display: inline-block;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 0px solid;
+    border-color: white;
+    padding: 50x 50x;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.search{
+    border:1px solid;
+    display:inline-block;
+    border-radius: 25px;
+    text-align: right;
+
+}
+
+input,
+button {
+    background-color:transparent;
+    border:0;
+}
