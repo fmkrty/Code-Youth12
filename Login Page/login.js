@@ -31,6 +31,6 @@ document.getElementById('loginForm').addEventListener('submit', (e) => {
   e.preventDefault();
   const email = document.getElementById('loginEmail').value;
   const password = document.getElementById('loginPassword').value;
-  // Your login logic here
+  
   console.log('Login:', email, password);
 });
